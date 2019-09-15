@@ -1,0 +1,9 @@
+2019/09/15 13:50:34 [error] 6#6: *1 open() "/usr/share/nginx/html/favicon.ico" failed (2: No such file or directory), client: 172.21.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:81", referrer: "http://localhost:81/"
+2019/09/15 14:05:18 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2019/09/15 14:06:23 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2019/09/15 14:09:48 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx1.conf:1
+2019/09/15 14:20:54 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx1.conf:1
+2019/09/15 14:21:33 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2019/09/15 14:22:40 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2019/09/15 14:22:56 [emerg] 1#1: "user" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
+2019/09/15 14:24:23 [emerg] 1#1: "http" directive is not allowed here in /etc/nginx/conf.d/nginx.conf:1
